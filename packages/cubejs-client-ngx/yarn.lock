@@ -1049,10 +1049,10 @@
     lodash "^4.17.13"
     to-fast-properties "^2.0.0"
 
-"@cubejs-client/core@^0.19.54":
-  version "0.19.54"
-  resolved "https://registry.yarnpkg.com/@cubejs-client/core/-/core-0.19.54.tgz#79d354c558d57ff51cd4dbb96b2a7871a38428b2"
-  integrity sha512-fpzoh9iUevNSZyO0ble9+TB87obGK2xXiwQxh6LkJF+scDDZMc4H8ZuhffesLfVDkMmSmFmWVt32AMhXu/y4SA==
+"@cubejs-client/core@^0.19.55":
+  version "0.19.56"
+  resolved "https://registry.yarnpkg.com/@cubejs-client/core/-/core-0.19.56.tgz#4248fb05f7ef8c4623bc853829cce7859f2cc18a"
+  integrity sha512-8EFDgBrLt+ZD4MKNBafM5uyQ1mnL2Q2anzECLUu/FTG8hk1BWjujZ9Knwsm8DY2kLV5KQbyOFK+6JaLkjrTB7A==
   dependencies:
     "@babel/runtime" "^7.1.2"
     core-js "^3.6.5"
@@ -4255,15 +4255,10 @@ hmac-drbg@^1.0.0:
     minimalistic-assert "^1.0.0"
     minimalistic-crypto-utils "^1.0.1"
 
-hosted-git-info@^2.1.4:
-  version "2.7.1"
-  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.7.1.tgz#97f236977bd6e125408930ff6de3eec6281ec047"
-  integrity sha512-7T/BxH19zbcCTa8XkMlbK5lTo1WtgkFi3GvdWEyNuc4Vex7/9Dqbnpsf4JMydcfj9HCg4zUWFTL3Za6lapg5/w==
-
-hosted-git-info@^2.7.1:
-  version "2.8.8"
-  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.8.8.tgz#7539bd4bc1e0e0a895815a2e0262420b12858488"
-  integrity sha512-f/wzC2QaWBs7t9IYqB4T3sR1xviIViXJRJTWBlx2Gf3g0Xi5vI7Yy4koXQ1c9OYDGHN9sBy1DQ2AB8fqZBWhUg==
+hosted-git-info@^2.1.4, hosted-git-info@^2.7.1:
+  version "2.8.9"
+  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.8.9.tgz#dffc0bf9a21c02209090f2aa69429e1414daf3f9"
+  integrity sha512-mxIDAb9Lsm6DoOJ7xH+5+X4y1LU/4Hi50L9C5sIswK3JzULS4bwk1FvjdBgvYR4bzT4tuUQiC15FE2f5HbLvYw==
 
 hosted-git-info@^3.0.2:
   version "3.0.5"
