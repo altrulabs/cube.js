@@ -18,10 +18,10 @@
     esutils "^2.0.2"
     js-tokens "^4.0.0"
 
-"@cubejs-backend/query-orchestrator@^0.19.47":
-  version "0.19.47"
-  resolved "https://registry.yarnpkg.com/@cubejs-backend/query-orchestrator/-/query-orchestrator-0.19.47.tgz#27caa4f9e9ba69fa6f81bd85ab45875e6985a2dd"
-  integrity sha512-HLsZGY77UnhuKsX6Zc+++tUAl6+1CusjBJi43nI2kVRWiqng648IMhtqaa3H+XYybCXqELlBEgA8V1NufYBmcA==
+"@cubejs-backend/query-orchestrator@^0.19.54":
+  version "0.19.61"
+  resolved "https://registry.yarnpkg.com/@cubejs-backend/query-orchestrator/-/query-orchestrator-0.19.61.tgz#a293a3603ab1249648445c55631d4d3fd7ab987f"
+  integrity sha512-kngdZ66hflSyVqvzbNWhQRsXE1yZDv94Txnoj/xml2KNrfq+khWrIRS+qG6QwybHXcAIRxcOjhfsAC6VOgoaUQ==
   dependencies:
     generic-pool "^3.7.1"
     ramda "^0.27.0"
@@ -1005,9 +1005,9 @@ he@1.2.0:
   integrity sha512-F/1DnUGPopORZi0ni+CvrCgHQ5FyEAHRLSApuYWMmrbSwoN2Mn/7k+Gl38gJnR7yyDZk6WLXwiGod1JOWNDKGw==
 
 hosted-git-info@^2.1.4:
-  version "2.8.5"
-  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.8.5.tgz#759cfcf2c4d156ade59b0b2dfabddc42a6b9c70c"
-  integrity sha512-kssjab8CvdXfcXMXVcvsXum4Hwdq9XGtRD3TteMEvEbq0LXyiNQr6AprqKqfeaDXze7SxWvRxdpwE6ku7ikLkg==
+  version "2.8.9"
+  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.8.9.tgz#dffc0bf9a21c02209090f2aa69429e1414daf3f9"
+  integrity sha512-mxIDAb9Lsm6DoOJ7xH+5+X4y1LU/4Hi50L9C5sIswK3JzULS4bwk1FvjdBgvYR4bzT4tuUQiC15FE2f5HbLvYw==
 
 human-signals@^1.1.1:
   version "1.1.1"
