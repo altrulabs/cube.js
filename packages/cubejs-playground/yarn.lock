@@ -1440,10 +1440,10 @@
   resolved "https://registry.yarnpkg.com/@csstools/normalize.css/-/normalize.css-10.1.0.tgz#f0950bba18819512d42f7197e56c518aa491cf18"
   integrity sha512-ij4wRiunFfaJxjB0BdrYHIH8FxBJpOwNPhhAcunlmPdXudL1WQV1qoP9un6JsEBAgQH+7UXyyjh0g7jTxXK6tg==
 
-"@cubejs-client/core@^0.19.53":
-  version "0.19.53"
-  resolved "https://registry.yarnpkg.com/@cubejs-client/core/-/core-0.19.53.tgz#d6e561e4d5508c78ec6f771095f85cfb293043e0"
-  integrity sha512-4OLm+6h10CxtHyW2UY6kJp/9+dAGfiENzPYBXwviSH+2ddP6Q51eRX6DHae1w7/JOLsE+zvw53wnvRu7BS42kA==
+"@cubejs-client/core@^0.19.55":
+  version "0.19.56"
+  resolved "https://registry.yarnpkg.com/@cubejs-client/core/-/core-0.19.56.tgz#4248fb05f7ef8c4623bc853829cce7859f2cc18a"
+  integrity sha512-8EFDgBrLt+ZD4MKNBafM5uyQ1mnL2Q2anzECLUu/FTG8hk1BWjujZ9Knwsm8DY2kLV5KQbyOFK+6JaLkjrTB7A==
   dependencies:
     "@babel/runtime" "^7.1.2"
     core-js "^3.6.5"
@@ -1454,10 +1454,10 @@
     url-search-params-polyfill "^7.0.0"
     uuid "^3.4.0"
 
-"@cubejs-client/react@^0.19.53":
-  version "0.19.53"
-  resolved "https://registry.yarnpkg.com/@cubejs-client/react/-/react-0.19.53.tgz#54390bd9577fce93ba3656b4741271a7cd4ea11d"
-  integrity sha512-v3qchj9Gs3tfXfRnQarLuDmVc10lGrnpPUNXvLwZCNnU33ekfUsWoHZBY/sXoZ2upX6dC4GqiRVuWQsKj2+IVw==
+"@cubejs-client/react@^0.19.55":
+  version "0.19.56"
+  resolved "https://registry.yarnpkg.com/@cubejs-client/react/-/react-0.19.56.tgz#9c2dc24e6d6b68a9a41d1bbacb3a501061714cc1"
+  integrity sha512-orFjjfEMZN623ejoEfxyP6YSZicpi0t6mSx2Dj3Nj7A2Us1X3Vp6UED3X5Q4opy/XteCXcZu+skCo5dla9S7Lg==
   dependencies:
     "@babel/runtime" "^7.1.2"
     core-js "^3.6.5"
@@ -8399,9 +8399,9 @@ moment-range@^4.0.1:
     es6-symbol "^3.1.0"
 
 moment@^2.10.2, moment@^2.22.2, moment@^2.24.0, moment@^2.25.3:
-  version "2.26.0"
-  resolved "https://registry.yarnpkg.com/moment/-/moment-2.26.0.tgz#5e1f82c6bafca6e83e808b30c8705eed0dcbd39a"
-  integrity sha512-oIixUO+OamkUkwjhAVE18rAMfRJNsNe/Stid/gwHSOfHrOtw9EhAY2AHvdKZ/k/MggcYELFCJz/Sn2pL8b8JMw==
+  version "2.29.2"
+  resolved "https://registry.yarnpkg.com/moment/-/moment-2.29.2.tgz#00910c60b20843bcba52d37d58c628b47b1f20e4"
+  integrity sha512-UgzG4rvxYpN15jgCmVJwac49h9ly9NurikMWGPdVxm8GZD6XjkKPxDTjQQ43gtGgnV3X0cAyWDdP2Wexoquifg==
 
 move-concurrently@^1.0.1:
   version "1.0.1"
